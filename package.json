@@ -1,0 +1,35 @@
+{
+  "name": "brazzerifier",
+  "version": "0.0.1",
+  "description": "Does exactly what you think it does. Probably.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardneililagan/brazzerifier.git"
+  },
+  "author": "Richard Neil Ilagan <me@richardneililagan.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richardneililagan/brazzerifier/issues"
+  },
+  "homepage": "https://github.com/richardneililagan/brazzerifier#readme",
+  "private": true,
+  "devDependencies": {
+    "babelify": "^6.1.3",
+    "bluebird": "^2.9.34",
+    "browserify": "^11.0.0",
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^3.0.3",
+    "grunt-browserify": "^3.8.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-less": "^1.0.1",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "gruntify-eslint": "^0.1.1",
+    "jit-grunt": "^0.9.1"
+  }
+}
